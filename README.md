@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>Github blog </h1>
-    <p>1일차</p>
+    <p>test</p>
   </body>
 </html>
