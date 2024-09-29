@@ -1,8 +1,11 @@
-# test
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ [post.url](https://searchcolor.github.io/) }}">{{ 2024.-09-29-blog }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> 2024.09.29 </title>
+  </head>
+  <body>
+    <h1>Github blog </h1>
+    <p>1일차</p>
+  </body>
+</html>
